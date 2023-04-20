@@ -1,0 +1,14 @@
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\bin\Debug\EmployeesRecordUI.exe.config
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\bin\Debug\EmployeesRecordUI.exe
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\bin\Debug\EmployeesRecordUI.pdb
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\bin\Debug\Dapper.dll
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\bin\Debug\Dapper.xml
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\obj\Debug\EmployeesRecordUI.csproj.AssemblyReference.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\obj\Debug\EmployeesRecordUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\obj\Debug\EmployeesRecordUI.Properties.Resources.resources
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\obj\Debug\EmployeesRecordUI.SearchAndInsertForm.resources
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\obj\Debug\EmployeesRecordUI.csproj.GenerateResource.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\obj\Debug\EmployeesRecordUI.csproj.CoreCompileInputs.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\obj\Debug\EmployeesRecordUI.csproj.CopyComplete
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\obj\Debug\EmployeesRecordUI.exe
+C:\Users\blandonm\Documents\Cursos\TimCorey\Employees-Record\EmployeesRecord\EmployeesRecordUI\obj\Debug\EmployeesRecordUI.pdb
